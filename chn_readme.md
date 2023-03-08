@@ -1,3 +1,6 @@
+# 下载链接
+[apex_aimbot.rar](apex_aimbot.rar)
+
 # 介绍
 这是基于YOLOV7的APEX和CS:GO AI模型
 ![apex](sample/apex.jpg)
