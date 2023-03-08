@@ -20,6 +20,7 @@ This is a YOLOV7 based APEX and CSGO Aimbot
 # Environment
 Windows 10
 Nvidia GPU Only
+Graphics driver version 465+
 This means that the software requires a graphics card of the GTX 10 series or above to run.
 
 # Contact
