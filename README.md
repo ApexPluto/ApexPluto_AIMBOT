@@ -1,3 +1,5 @@
+![简体中文README](chn_readme.md)
+
 # Introduction
 This is a YOLOV7 based APEX and CSGO Aimbot
 ![apex](sample/apex.jpg)
