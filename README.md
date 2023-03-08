@@ -1,7 +1,7 @@
 ![简体中文README](chn_readme.md)
 
 # Download
-<a target="_blank" target="_blank" download="apex_aimbot.rar">apex_aimbot</a>
+[apex_aimbot.rar](apex_aimbot.rar)
 
 # Introduction
 This is a YOLOV7 based APEX and CSGO Aimbot
